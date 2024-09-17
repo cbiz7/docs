@@ -13,6 +13,9 @@ theme:
     - content.code.annotation
     - content.code.copy
   language: en
+  font: 
+    text: Roboto
+    code: Roboto Mono
   palette:
     # Palette toggle for light mode
     - scheme: default
